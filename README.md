@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @troelslethpetersen
-- 👀 I’m interested in using data for creating decisionsupport @ Økonomistyrelsen
+- 👀 I’m interested in using data as a basis for decision support @ Økonomistyrelsen
 - 🌱 I’m currently learning LLMS & RAG-solutions on top of Azure OpenAI
 - ⚡ Fun fact: contact me for all the fun facts.
 
